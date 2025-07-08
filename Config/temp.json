@@ -1,0 +1,16 @@
+{
+  "Database": {
+    "Host": "host2222",
+    "Port": "port",
+    "DBName": "db",
+    "Username": "user",
+    "Password": "pass"
+  },
+  "Scanner": {
+    "IPAddress": "192.168.1.155",
+    "Port": "5500",
+    "UserName": "admin",
+    "Password": "3x35mart",
+    "Model": "Realand"
+  }
+}
